@@ -57,8 +57,8 @@ I use color thresholding and morphological filtering methods to segment a human 
 
 <p float="left">
 
-  <img src="Image Segmentation with morphological filtering/results/Image2 after final segmentation.jpg" width="200" /> 
-  <img src="Image Segmentation with morphological filtering/results/Image after final segmentation.jpg" width="200" />
+  <img src="Image Segmentation with morphological filtering/results/Image2 after final segmentation.jpg" width="210" /> 
+  <img src="Image Segmentation with morphological filtering/results/Image after final segmentation.jpg" width="210" />
 
  
 </p>
