@@ -1,4 +1,5 @@
 # Various digital image processing algorithms implemented with Matlab
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 This project proposes algorithms for different image processing problems, such as Contrast Enhancement, Image Segmentation, Object Detection, and Noise Reduction.
 
@@ -77,4 +78,7 @@ In the frequency domain, noise can be separated from image content. As wavelets 
 (b), (e), (h) Processed images with Bayes’ algorithm
 
 (c), (f), (i) Processed images with Steins’ algorithm
+
+## Getting Started
+Each project contains a short paper explaining the proposed algorithm. Simply run the **.m** file using MATLAB.
 
